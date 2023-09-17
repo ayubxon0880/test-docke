@@ -1,0 +1,17 @@
+uz\begim\springbackend\service\ProductService.class
+uz\begim\springbackend\repository\CategoryRepository.class
+uz\begim\springbackend\service\impl\FileServiceImpl.class
+uz\begim\springbackend\service\impl\ProductServiceImpl.class
+uz\begim\springbackend\model\FileUploadResponse.class
+uz\begim\springbackend\dto\FileData.class
+uz\begim\springbackend\dto\ApiResponse.class
+uz\begim\springbackend\repository\ProductRepository.class
+uz\begim\springbackend\exceptions\NotFoundException.class
+uz\begim\springbackend\model\Category.class
+uz\begim\springbackend\mapper\ProductMapper.class
+uz\begim\springbackend\SpringBackendApplication.class
+uz\begim\springbackend\dto\ApiResponse$ApiResponseBuilder.class
+uz\begim\springbackend\dto\ProductDto.class
+uz\begim\springbackend\model\Product.class
+uz\begim\springbackend\dto\FileData$FileDataBuilder.class
+uz\begim\springbackend\controller\ProductController.class

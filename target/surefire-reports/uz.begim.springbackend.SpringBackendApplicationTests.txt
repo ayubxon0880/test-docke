@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: uz.begim.springbackend.SpringBackendApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.122 s - in uz.begim.springbackend.SpringBackendApplicationTests
