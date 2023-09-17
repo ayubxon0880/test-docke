@@ -8,3 +8,6 @@ class SpringBackendApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}
